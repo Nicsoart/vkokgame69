@@ -1,0 +1,17 @@
+{
+"companyName": "Nicso Games",
+"productName": "Bikini Detective",
+"productVersion": "0.1",
+"dataUrl": "VkBuild1.data.unityweb",
+"wasmCodeUrl": "VkBuild1.wasm.code.unityweb",
+"wasmFrameworkUrl": "VkBuild1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "VkBuild1.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
